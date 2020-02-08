@@ -8,7 +8,7 @@
    
    <H1> Introduction </h1>
    
-This is [What is TypeScript](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript) 
+[What is TypeScript](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript) 
    
    <li>Type of variable  decarations :</li>
    <li>What is TypeScript:</li>
