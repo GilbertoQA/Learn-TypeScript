@@ -3,11 +3,9 @@
 
   Si no sabes ingles no te preocupes puedes mirar la documentacion en spanish: 
   
-  [Documentacion en spanish](#)
-
-    before nothing if you do not have TypeScript installed on your computer then you should install with this command:
-    
-    > npm install -g typescript
+  before nothing if you do not have TypeScript installed on your computer then you should install with this command:
+  
+  npm install -g typescript
 
 I really recommend use NPM is it better.
    
