@@ -5,4 +5,9 @@
    
    <H1> Introduction </h1>
    
-   <li>list</li>
+   <li>What is TypeScript:</li>
+   <li>Type of variable  decarations :</li>
+   <li>:</li>
+   <li>What is TypeScript:</li>
+   <li>What is TypeScript:</li>
+
