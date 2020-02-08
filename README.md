@@ -8,18 +8,7 @@
    
    <H1> Introduction </h1>
    
-   <li>What is TypeScript:</li>
-    
-    
-    
-    <p>TypeScript is an open-source programming language developed and maintained by Microsoft. </p>
-    
-    <p>It is a strict syntactical superset of JavaScript, and adds optional static typing to the language.</p>
-    
-    
-    <p>TypeScript is designed for development of large applications and transcompiles to JavaScript.</p>
-    
-   
+   <li>[What is TypeScript](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript):</li>
    
    <li>Type of variable  decarations :</li>
    <li>What is TypeScript:</li>
