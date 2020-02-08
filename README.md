@@ -12,6 +12,8 @@ I really recommend use NPM is it better.
    <H1> Introduction </h1>
    
 [What is TypeScript](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript) 
+<br>
+
  [Introduction to TypeScript](https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript)
    <li>Type of variable  decarations :</li>
    <li>What is TypeScript:</li>
